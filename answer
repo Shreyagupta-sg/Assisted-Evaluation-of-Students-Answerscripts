@@ -1,0 +1,25 @@
+(1, 'Inertia is defined as a property of matter by which it tries to maintain its state of rest or of uniform motion along a straight line.', 0, 1, '2023-05-03 23:57:11'),
+
+(2, 'Polymorphism is the ability of an object to take on different forms.', 0, 2, '2023-05-03 23:57:11'),
+
+(3, 'polymorphism refers to the ability of a class to provide different implementation of a method depending on the type of object that is passed to method.', 0, 2, '2023-05-05 14:09:08'),
+
+(4, 'Inheritance is a concept that acquires the properties from one class to other classes.For example relationship between parents and children.', 0, 3, '2023-05-03 23:57:11'),
+
+(5, 'Inheritance is a process of adopting all the behaviours of a parent object.', 0, 3, '2023-05-05 14:05:23'),
+
+(6, 'acquiring', 0, 3, '2023-05-05 14:24:05'),
+
+(7, 'adopting behaviours', 0, 3,'2023-05-05 14:24:05'),
+
+(8, 'Encapsulation refers to bundling of fields and methods inside a single class.', 0, 4, '2023-05-04 23:57:11'),
+
+(9, 'It helps to achieve data hiding.', 0, 4, '2023-05-05 13:59:05'),
+
+(10, 'encapsulating', 0, 4,'2023-05-05 14:24:05' ),
+
+(11, 'Data Abstraction is the process of hiding certain details and showing only essential information to the user.', 0, 5, '2023-05-04 23:57:11'),
+
+(12, 'required information', 0, 5,'2023-05-05 14:24:05'),
+
+(13, 'An object is any entity that has a state and behaviour.For example,   is an object.', 0, 6, '2023-05-04 23:57:11');

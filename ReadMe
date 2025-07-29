@@ -1,0 +1,27 @@
+pip install pymysql
+pip install pyzipcode
+pip install Flask
+pip install pygal
+pip install SQLAlchemy
+pip install -U scikit-learn
+pip install pandas
+pip install numpy --upgrade
+pip install requests
+pip install nltk
+pip install sklearn
+pip install xlrd
+pip install scikit-learn
+
+set path=C:\Users\shrey\AppData\Local\Programs\Python\Python311
+
+cd C:\Project_Softwares\SubjectiveAnalysis\src
+
+set FLASK_APP=Main.py
+
+python -m flask run
+
+http://127.0.0.1:5000/
+
+I am a graduate. I want to learn Python. I like learning Python. Python is easy. Python is interesting. Learning increases thinking. Everyone should invest time in learning
+
+How are you?
